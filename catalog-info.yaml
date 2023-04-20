@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: FabianGosebrink
+  annotations:
+    github.com/project-slug: vikgithub12/FabianGosebrink
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
